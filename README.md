@@ -78,7 +78,7 @@ Level-2-Kotlin-Programming-Basics/
 
 <img width="250" height="600" alt="Screenshot 2025-11-27 132328" src="https://github.com/user-attachments/assets/59183084-f8f8-416f-a7a8-c363ff209636" />
 <img width="250" height="600" alt="Screenshot 2025-11-27 132337" src="https://github.com/user-attachments/assets/c63ff8a6-a597-40b4-8102-798594896576" />
-<img width="250" height="700" alt="Screenshot 2025-11-27 132408" src="https://github.com/user-attachments/assets/52cccf09-e4db-4042-9f5f-d53d0f5c01c8" />
+<img width="250" height="1000" alt="Screenshot 2025-11-27 132408" src="https://github.com/user-attachments/assets/52cccf09-e4db-4042-9f5f-d53d0f5c01c8" />
 
 ---
 
